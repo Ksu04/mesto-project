@@ -22,5 +22,5 @@
 
 Открытие и закрытие модальных окон реализовано с добавлением и удалением слушателя событий для закрытия окна по нажатию клавиши Esc.  
 
-https://odincovm.github.io/mesto-project
+https://ksu04.github.io/mesto-project
  
